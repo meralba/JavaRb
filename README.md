@@ -2,6 +2,21 @@ JavaRb (V 1.0)
 ======
 
 Tool that translates Java's files to Ruby's files.
+This's the first version. Only translate the nexts funtionalities:
+  1. Package statement.
+  2. Class statement.
+  3. Attributes class.
+  4. Methods with or without return.
+  5. Equality operator and simple instructions.
+  6. Call methods.
+  7. toString method.
+  8. Builders.
+  9. Prints.
+  10. Increments and decrements.
+  11. Main method.
+  12. Scan keyboard.
+  13. Comments on one or more lines.
+  14. Simple if/else
 
 How to make it work?
 This is code in C and Lex.
